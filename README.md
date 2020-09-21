@@ -1,4 +1,4 @@
-This repository holds the fixed issues of incompatibility with PHP v7.2 of the [spatie/laravel-webhook-server](https://github.com/spatie/laravel-webhook-server) package on [`php7.2` branch](../../tree/php7.2).
+This repository holds the fixed issues of incompatibility with PHP v7.2 of the [spatie/laravel-webhook-server](https://github.com/spatie/laravel-webhook-server).
 
 ## Installation
 
